@@ -43,8 +43,8 @@ This project is a MERN stack-based assessment that involves creating backend API
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone git@github.com:Saurbhmoynak/Roxiler_Systems_Assessment.git
-   cd Roxiler_Systems_Assessment
+   git clone git@github.com:RenukaprasadKR/MERN-stack-project.git
+   cd MERN-stack-project
    ```
 
 2. Install dependencies:
